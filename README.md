@@ -6,7 +6,7 @@ Neste repositório você encontrará anotações sobre configurações necessár
 
 **[ZSH](./zsh.md)** - para uma maior produtividade no terminal linux
 
-**ASDF** - instalação e configuração em ambiente linux com ZSH
+**[ASDF](./asdf.md)** - ferramenta para gerenciar versões das linguagens de programação utilizadas
 
 **OpenJDK** - instalação e configuração de variáveis no linux
 
