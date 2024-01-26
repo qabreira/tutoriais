@@ -21,12 +21,13 @@ Para definir como shell padrão, rode:
 As configurações do ZSH são feitas no arquivo `~/.zshrc`. Vamos habilitar alguns plug-ins e, para isso, precisamos editar o arquivo e inserir o nome do plug-in dentro da categoria `plugins=(xyz)`. Por exemplo:
 
     plugins=(
-		    git
-		    systemd
-		    zsh-syntax-highlighting
-		    zsh-autosuggestions
-		    )
-	ZSH_THEME="powerlevel10k/powerlevel10k"
+	    git
+	    systemd
+	    zsh-syntax-highlighting
+	    zsh-autosuggestions
+	    )
+
+     ZSH_THEME="powerlevel10k/powerlevel10k"
 
 Após cara alteração use o comando `source ~/.zshrc` para recarregar o arquivo e ativar os plug-ins.
 
