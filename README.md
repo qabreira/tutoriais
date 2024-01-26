@@ -4,7 +4,7 @@ Neste repositório você encontrará anotações sobre configurações necessár
 
 ---
 
-**[ZSH](./zsh.md)** - instalação e configuração em ambiente linux
+**[ZSH](./zsh.md)** - para uma maior produtividade no terminal linux
 
 **ASDF** - instalação e configuração em ambiente linux com ZSH
 
