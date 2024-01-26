@@ -5,6 +5,9 @@ Neste repositório você encontrará anotações sobre configurações necessár
 ---
 
 **[ZSH](./zsh.md)** - instalação e configuração em ambiente linux
+
 **ASDF** - instalação e configuração em ambiente linux com ZSH
+
 **OpenJDK** - instalação e configuração de variáveis no linux
+
 **Android Studio** - instalação e configuração de variáveis no linux
