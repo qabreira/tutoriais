@@ -8,6 +8,6 @@ Neste repositório você encontrará anotações sobre configurações necessár
 
 **[ASDF](./asdf.md)** - ferramenta para gerenciar versões das linguagens de programação utilizadas
 
-**OpenJDK** - instalação e configuração de variáveis no linux
+**[OpenJDK](./openjdk.md)** - instalação e configuração de variáveis no linux
 
 **Android Studio** - instalação e configuração de variáveis no linux
